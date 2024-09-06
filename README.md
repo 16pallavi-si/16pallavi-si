@@ -17,6 +17,7 @@ src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-
 <p align="left">
 <a href="https://kaggle.com/pallavikumari12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pallavikumari12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@pallavikumari121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pallavikumari121" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/16pallavi-si" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="16pallavi-si" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pallavikul12q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pallavikul12q" height="30" width="40" /></a>
 </p>
 
